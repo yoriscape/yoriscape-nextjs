@@ -23,30 +23,30 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h2>My GitHub Profile &rarr;</h2>
+            <p>Find in-depth information about Projects and What i am still learning.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <h2>My Twitter Profile &rarr;</h2>
+            <p>Most of the tweets i do is useless, i use Twitter only for social knowledge!</p>
           </a>
 
           <a
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>My Instagram Profile &rarr;</h2>
+            <p>Discover my shitty face their if you've liked it follow when?</p>
           </a>
 
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>My Telegram Profile &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              If need any help I'm up 24/7(i feel useless tho)
             </p>
           </a>
         </div>
