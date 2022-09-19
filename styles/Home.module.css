@@ -122,6 +122,7 @@
   }
   .code {
     background: #111;
+    border-radius: 25px;
   }
   .logo img {
     filter: invert(1);
