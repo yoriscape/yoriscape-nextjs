@@ -22,18 +22,18 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://github.com/yoriscape" className={styles.card}>
             <h2>My GitHub Profile &rarr;</h2>
             <p>Find in-depth information about Projects and What i am still learning.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://twitter.com/only_yoriichi?t=7rASpzDZtGMKOCcK-7vt4Q&s=09" className={styles.card}>
             <h2>My Twitter Profile &rarr;</h2>
             <p>Most of the tweets i do is useless(i use Twitter only for social knowledge!)</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://www.instagram.com/sukhxhere/"
             className={styles.card}
           >
             <h2>My Instagram Profile &rarr;</h2>
@@ -41,7 +41,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://t.me/Yoriscape"
             className={styles.card}
           >
             <h2>My Telegram Profile &rarr;</h2>
