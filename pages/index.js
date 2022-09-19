@@ -29,7 +29,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>My Twitter Profile &rarr;</h2>
-            <p>Most of the tweets i do is useless, i use Twitter only for social knowledge!</p>
+            <p>Most of the tweets i do is useless(i use Twitter only for social knowledge!)</p>
           </a>
 
           <a
@@ -37,7 +37,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>My Instagram Profile &rarr;</h2>
-            <p>Discover my shitty face their if you've liked it follow when?</p>
+            <p>Discover my shitty face their if you have liked it follow when?</p>
           </a>
 
           <a
@@ -46,7 +46,7 @@ export default function Home() {
           >
             <h2>My Telegram Profile &rarr;</h2>
             <p>
-              If need any help I'm up 24/7(i feel useless tho)
+              If need any help I am up 24/7(i feel useless tho)
             </p>
           </a>
         </div>
