@@ -21,7 +21,7 @@ export default function Home() {
           <code className={styles.code}>Swipe Down</code>
         </p>
 
-        <div className={styles.code}>
+        <div className={styles.grid}>
           <a href="https://github.com/yoriscape" className={styles.card}>
             <h2>My GitHub Profile &rarr;</h2>
             <p>Find in-depth information about Projects and What i am still learning.</p>
