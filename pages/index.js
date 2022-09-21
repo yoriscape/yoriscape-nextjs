@@ -27,6 +27,7 @@ export default function Home() {
             <p>Find in-depth information about Projects and What i am still learning.</p>
           </a>
 
+        <div className={styles.code}>
           <a href="https://twitter.com/only_yoriichi?t=7rASpzDZtGMKOCcK-7vt4Q&s=09" className={styles.card}>
             <h2>My Twitter Profile &rarr;</h2>
             <p>Most of the tweets i do is useless(i use Twitter only for social knowledge!)</p>
